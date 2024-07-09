@@ -24,8 +24,8 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/farmbot-plant-manager.git
-    cd farmbot-plant-manager
+    git clone https://github.com/Dreamchuyito03/farmbot
+    cd farmbot
     ```
 
 2. **Install dependencies:**
