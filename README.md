@@ -58,9 +58,6 @@ To interact with the FarmBot API, you need an API token. Follow these steps to r
 
 2. **Run the script to generate the token:**
 
-    ```bash
-    python request_token.py
-    ```
 
     Make sure to replace `'your-email@example.com'` and `'your-password'` with your actual FarmBot credentials.
 
